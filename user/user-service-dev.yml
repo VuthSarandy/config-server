@@ -1,7 +1,7 @@
 server:
   port: 1681
 
-euraka:
+eureka:
   instance:
     prefer-ip-address: true
   client:
