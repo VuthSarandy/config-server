@@ -1,5 +1,5 @@
 server:
-  port: 1680
+  port: 1681
 
 euraka:
   instance:
